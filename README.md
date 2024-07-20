@@ -6,11 +6,15 @@ sending NDP packet
 
 Compile:
 
+```
 gcc -o send_ns send_ns.c
+```
 
 Usage:
 
+```
 ./send_ns <target_ipv6> <device>
+```
 
 ## Others
 
